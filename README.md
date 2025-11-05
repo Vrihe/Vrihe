@@ -3,7 +3,7 @@
 <!-- You can add an animated GIF banner here -->
 <!-- <img src="https://your-gif-url-here.gif" alt="Banner GIF" width="100%"/> -->
 
-# 👋 Hi, I'm Vrihe!
+# 👋 Hi, I'm Kyrylo!
 
 ### 🚀 Developer | 💡 Creator | 🌟 Tech Enthusiast
 
