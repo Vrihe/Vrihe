@@ -34,6 +34,7 @@
 
 ### Languages
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhuaHJxdGllbG5nZHVmOXg1MjVrbGtva2EyaWI4cXcxZXVheHJmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TYJGc5wB1ZlQDYbxhl/giphy.gif" alt="Banner GIF" width="100%"/>
+
 <!-- Add your language badges here -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
