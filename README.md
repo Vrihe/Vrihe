@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- You can add an animated GIF banner here -->
-<!-- <img src="https://your-gif-url-here.gif" alt="Banner GIF" width="100%"/> -->
+img src="[https://your-gif-url-here.gif](https://pl.pinterest.com/pin/601441725265072606/)" alt="Banner GIF" width="100%"
 
 # 👋 Hi, I'm Kyrylo!
 
