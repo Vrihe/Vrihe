@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- You can add an animated GIF banner here -->
-<img src="https://pin.it/6udDIK7Gs" alt="Banner GIF" width="100%"/>
+<img src="https://i.pinimg.com/originals/ca/9f/e9/ca9fe9e1c1aad2d7767cf7dfb9396540.gif" alt="Banner GIF" width="100%"/>
 
 # 👋 Hi, I'm Kyrylo!
 
